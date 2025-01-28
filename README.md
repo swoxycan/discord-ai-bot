@@ -66,4 +66,4 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 ## Contact
 
-For any questions or support, please contact [your-email@example.com](swoxycan@tutamail.com). 
+For any questions or support, please contact [swoxycan@tutamail.com](mailto:swoxycan@tutamail.com).
